@@ -5,7 +5,7 @@
 - 👀 Current Focus:
 - Currently, I am learning about GPT
 - 📫 Let's connect
-- Have an exciting idea in mind or just want to chat? Feel free to reach out via email at kadima531@gmail.com. I am always open for discussions and open to learn new things.
+- Have an exciting idea in mind or just want to chat? Feel free to reach out via email at kadimasam531@gmail.com. I am always open for discussions and open to learn new things.
 
 <!---
 KadiSam01/KadiSam01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
