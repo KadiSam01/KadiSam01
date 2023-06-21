@@ -3,7 +3,7 @@
 - 🌟 About Me:
 - I am passionate about computer science and am continuously striving to broaden my knowledge and skills. My passion for computer science knows no bounds, and I enjoy learning about areas ranging from artificial intelligence to app development, augmented reality, and others.
 - 👀 Current Focus:
-- Currently, I am learning about GPT, augmented reality, and C
+- Currently, I am learning about recommendation systems, augmented reality, and C
 - 📫 Let's connect
 - Have an exciting idea in mind or want to chat? Please feel free to email me at kadimasam531@gmail.com. I am always open to discussions and open to learning new things.
 
