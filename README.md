@@ -7,7 +7,8 @@
 - Recommendation systems
 - Improving problem-solving skills
 - 😎Future Focus:
--  Learning C programming
+-  Learn C programming
+-  Learn GUI
 -  TBD
 - 📫 Let's connect
 - Have an exciting idea in mind or want to chat? Please feel free to email me at kadimasam531@gmail.com. I am always open to discussions and open to learning new things.
