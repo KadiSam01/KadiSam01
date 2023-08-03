@@ -7,7 +7,7 @@
 - Recommendation systems
 - Improving problem-solving skills
 - 😎Future Focus:
--  Learn C programming
+-  Learn C
 -  Learn GUI
 -  TBD
 - 📫 Let's connect
