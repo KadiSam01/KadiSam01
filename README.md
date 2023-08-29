@@ -1,11 +1,12 @@
 - 👋 Hi, I’m Samuel Kadima!
-- Welcome to my GitHub profile, where I hope to bring my passion for Computer Science to life. I am a sophomore majoring in Computer Science at Xavier University committed to positively impacting the world through technological innovation.  
+- Welcome to my GitHub profile, where I hope to bring my passion for Computer Science to life. I am a sophomore majoring in Computer Science with a concentration in Cybersecurity at Xavier University committed to positively impacting the world through technological innovation.  
 - 🌟 About Me:
 - I am passionate about computer science and continuously strive to broaden my knowledge and skills. My passion for computer science knows no bounds, and I enjoy learning about areas ranging from artificial intelligence to augmented reality, app development, and others.
 - 👀 Current Focus:
-- Productive summer
 - Recommendation systems
 - Improving problem-solving skills
+- Understanding Computer Systems and Security
+- Proper and ethical use of data
 - 😎Future Focus:
 -  Learn C
 -  Learn GUI
