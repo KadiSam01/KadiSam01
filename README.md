@@ -3,12 +3,13 @@
 - 🌟 About Me:
 - I am passionate about computer science and continuously strive to broaden my knowledge and skills. My passion for computer science knows no bounds, and I enjoy learning about areas ranging from artificial intelligence to augmented reality, app development, and others.
 - 👀 Current Focus:
-- Recommendation systems
+- Learning JavaScript
 - Improving problem-solving skills
 - Understanding Computer Systems and Security
 - Proper and ethical use of data
 - 😎Future Focus:
 -  Learn C
+-  Recommendation systems
 -  Learn GUI
 -  TBD
 - 📫 Let's connect
