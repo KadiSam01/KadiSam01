@@ -10,6 +10,7 @@
 - Proper and ethical use of data
 - 😎Future Focus:
 -  Learn C
+-  Playing CTFs for fun
 -  Improve Python skills
 -  Recommendation systems
 -  Learn new frameworks
