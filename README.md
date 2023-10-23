@@ -5,10 +5,12 @@
 - 👀 Current Focus:
 - Learning JavaScript
 - Improving problem-solving skills
+- Understanding Data Structures & Algorithms
 - Understanding Computer Systems and Security
 - Proper and ethical use of data
 - 😎Future Focus:
 -  Learn C
+-  Improve Python skills
 -  Recommendation systems
 -  Learn new frameworks
 - 📫 Let's connect
