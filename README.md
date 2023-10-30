@@ -4,6 +4,7 @@
 - I am passionate about computer science and continuously strive to broaden my knowledge and skills. My passion for computer science knows no bounds, and I enjoy learning about areas ranging from artificial intelligence to augmented reality, cybersecurity, app development, and others.
 - 👀 Current Focus:
 - Improving problem-solving skills
+- Linux
 - Understanding Data Structures & Algorithms
 - Understanding Computer Systems and Security
 - Proper and ethical use of data
