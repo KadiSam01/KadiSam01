@@ -7,11 +7,12 @@
 - Linux
 - Understanding Data Structures & Algorithms
 - Understanding Computer Systems and Security
+- Understanding Networking
 - Proper and ethical use of data
-- Learning JavaScript
-- 😎Future Focus:
 - Playing CTFs for fun
+- 😎Future Focus:
 - Learn C
+- Learn JavaScript and couple of frameworks
 - Improve Python skills
 - Recommendation systems
 - Learn new frameworks
