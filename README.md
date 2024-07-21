@@ -3,14 +3,14 @@
 - 🌟 About Me:
 - I am passionate about computer science and continuously strive to broaden my knowledge and skills. My passion for computer science knows no bounds, and I enjoy learning about areas ranging from the study of different types of data structures to algorithms, and artificial intelligence to augmented reality, cybersecurity, app development, and others.
 - 👀 Current Focus:
--Improving problem-solving skills
--Playing Capture the Flag
--Understanding Linux and Windows Operating System
--Learning C
--Understanding Networking
--Proper and ethical use of data
--SOC Analyst prerequisite path(HTB)
--Playing capture the flags(CTF)
+- Improving problem-solving skills
+- Playing Capture the Flag
+- Understanding Linux and Windows Operating System
+- Learning C
+- Understanding Networking
+- Proper and ethical use of data
+- SOC Analyst prerequisite path(HTB)
+- Playing capture the flags(CTF)
 - 😎Future Focus:
 - Learn JavaScript and a couple of frameworks
 - Improve Python skills
